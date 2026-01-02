@@ -75,8 +75,8 @@ A modern, interactive portfolio built with **React** and **Tailwind CSS**, showc
 ---
 
 ## 📬 Contact Me
-- 📧 Email: **your-email@example.com**
-- 💼 LinkedIn: *(add link)*
+- 📧 Email: **swayamv259@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/swayam-vishwakarma-50010a24a"
 - 🧑‍💻 GitHub: https://github.com/your-username
 
 ---
