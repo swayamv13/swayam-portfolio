@@ -60,11 +60,7 @@ useEffect(() => {
               text="CSS"
               containerRef={grid2Container}
             />
-            <Card
-              style={{ rotate: "-30deg", top: "60%", left: "45%" }}
-              text="Algorithms"
-              containerRef={grid2Container}
-            />
+            
             <Card
               style={{ rotate: "90deg", bottom: "30%", left: "70%" }}
               text="Web Development"
@@ -87,23 +83,23 @@ useEffect(() => {
             />
             <Card
               style={{ rotate: "-45deg", top: "70%", left: "25%" }}
-              image="/assets/logos/icons8-mongodb-48.png"
+              image="assets/logos/icons8-mongodb-48.png"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="/assets/logos/js icon.png"
+              image="assets/logos/js icon.png"
               containerRef={grid2Container}
             />
             
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="\assets\logos\react-js-logo.png"
+              image="assets/logos/react-js-logo.png"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="\assets\logos\html5.svg"
+              image="assets/logos/html5.svg"
               containerRef={grid2Container}
             />
             
